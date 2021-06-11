@@ -1,0 +1,241 @@
+.navbar
+{
+	background-color:#08526d;
+	
+
+	
+}
+.navbar-brand
+{
+	color: blue;
+
+}
+.navbar-nav .nav-link
+{
+	font-size: 15px;
+	text-transform: capitalize;
+	margin-left:15px;
+	color: #FFF;
+
+}
+
+
+.img-fluid
+{
+	width: 100%;
+}
+
+section h1
+{
+	text-transform: uppercase;
+    text-align: right;
+    color: #00968880;
+    width: 60%;
+
+}
+
+section p
+{
+	color: #b2b2b7;
+	width: 90%;
+	text-align: left;
+	text-transform: lowercase;
+	font-size: 15px;
+	font-style: normal; 
+	font-family: monospace;
+}
+
+section img 
+{
+	width: 80%;
+	height: 700px;
+}
+
+.fa
+{
+	color: #53c1f5
+}
+
+
+.Lorem h1
+{
+	text-transform: capitalize;
+    text-align: right;
+    color: #00968880;
+    width: 70%;
+    padding: 30px 30px;
+}
+.Lorem h3
+{
+	padding: 10px 0px 0px 0px; 
+}
+
+.SEE 
+{
+	background-color: #ececf1;
+	padding: 20px 70px 20px 70px;
+	margin-top: 3%;
+}
+
+.SEE h1
+{
+	text-transform: uppercase;
+	text-align: left;
+	font-size: 25px;
+	
+}
+
+.OUR h2
+{   text-transform: capitalize;
+    text-align: right;
+    color: #00968880;
+    width: 60%;
+    padding: 10px 30px 5px 30px;
+}
+.OUR p
+{  text-transform: lowercase;
+	text-align: center;
+	font-size: 20px;
+
+}
+.OUR img
+{
+	width: 350px;
+	height: 250px;
+	margin-top: 50px;
+	margin-bottom: auto;
+
+	
+}
+
+.AAA
+{
+	background-color: #2d2d2f;
+	padding: 30px 70px 20px 70px;
+	margin-top: 40px;
+	width: 90;
+}
+	
+
+.AAA h1
+
+{   text-transform: uppercase;
+	text-align: left;
+	font-size: 25px;
+	color: #f5f5f9;
+
+}
+.AAA p
+{   
+
+	text-transform: lowercase;
+	text-align: left;
+	font-size: 17px;
+	transform-style: initial;
+	color: #f5f5f9;
+}
+
+.CONTACT
+{  margin-top: 40px;
+
+}
+
+.CONTACT h1
+{
+	text-transform: uppercase;
+	text-align: left;
+	font-size: 18px;
+	color: #000e0df5;
+	margin-bottom: 20px;
+}
+.CONTACT h2
+{   text-transform: uppercase;
+	text-align: left;
+	font-size: 16px;
+	color: #000e0df5;
+	margin-bottom: 15px;
+	padding-left: 2px;
+
+}
+.CONTACT span 
+{
+	text-transform: lowercase;
+	text-align: center;
+	font-size: 15px;
+	color: #000e0df5;
+	padding-left: 13px;
+}
+.CONTACT .newyork
+{
+	padding-left: 30px;
+}
+
+.CONTACT button
+{	background-color: #6bbdb6;
+	border-color: #FFF;
+	color: #313131;
+} 
+#bdc6d0
+.page-footer {
+	background-color:#8d8d96;
+	width: 100% ;
+	margin-top: 3%;
+}
+.page-footer p
+{   text-transform: lowercase;
+	text-align: left;
+	font-size: 15px;
+
+}
+
+.footer-copyright
+{
+	margin-left: 27%;
+}
+
+
+.service 
+{
+	margin-top: 5%;
+	margin-bottom: 5%;
+
+}
+
+.Lorem1 h3
+{
+	font-size: 20px;
+}
+
+.SEE1 
+{
+	background-color: #ececf1;
+	width: 90%;
+	margin-right: 20px;
+	margin-left: 100px;
+	margin-top: 3%;
+}
+
+.SEE1 h1
+{
+	font-size: 25px;
+}
+
+.SEE1 button
+{
+	background-color: #6bbdb6;
+	border-color: #FFF;
+	color: #313131;
+
+
+
+}
+
+.page-footer1
+{  background-color:#8d8d96;
+	width: 90% ;
+	margin-top: 3%;
+	margin-left: 100px;
+	margin-right: 20px;
+
+} 
+
